@@ -36,22 +36,22 @@ Perform **exploratory data analysis (EDA)** on Netflix's catalog to uncover tren
 ## Visualizations  
 
 ### Movies vs TV Shows  
-![Movies vs TV Shows](results/movievstv.png)
+![Movies vs TV Shows](screenshots/movievstv.png)
 
 ### Top 10 Countries Producing Content  
-![Top 10 Countries](results/top10countries.png)
+![Top 10 Countries](screenshots/top10countries.png)
 
 ### Content Release Over the Years  
-![Content Release](results/contentReleased.png)
+![Content Release](screenshots/contentReleased.png)
 
 ### Top 10 Genres  
-![Top 10 Genres](results/top10genres.png)
+![Top 10 Genres](screenshots/top10genres.png)
 
 ### Top 10 Directors  
-![Top 10 Directors](results/top10directors.png)
+![Top 10 Directors](screenshots/top10directors.png)
 
 ### Movie Duration Distribution  
-![Movie Duration](results/movieDuration.png)
+![Movie Duration](screenshots/movieDuration.png)
 
 ---
 
