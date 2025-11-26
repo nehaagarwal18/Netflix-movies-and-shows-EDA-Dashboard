@@ -5,6 +5,14 @@ Perform **exploratory data analysis (EDA)** on Netflix's catalog to uncover tren
 
 ---
 
+## Technology Used
+- streamlit
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- python
+
 ## Dataset Information  
 - **Source:** [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 - **Dataset Name:** Netflix Movies and TV Shows Dataset  
