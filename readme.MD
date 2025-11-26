@@ -70,6 +70,7 @@ Perform **exploratory data analysis (EDA)** on Netflix's catalog to uncover tren
     pip install numpy
     pip install seaborn
     pip install matplotlib
-5. Run python file
+5. Run the dasboard
     ```bash
-    python eda.py
+    streamlit run netflix_dashboard.py
+6. Open in the browser - http://localhost:8501/
